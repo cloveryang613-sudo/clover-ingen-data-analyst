@@ -1,0 +1,2 @@
+mean_battery_soc,fault_rate,mean_lidar_distance,wheel_torque_imbalance,anomaly_threshold,high_risk_count,max_anomaly_score
+59.98749171297004,0.0,8.445379079341146,4.890649929785771,0.3489341474992004,600,0.4039130713452786
